@@ -1,1 +1,0 @@
-# workshop-ocp-k8s
