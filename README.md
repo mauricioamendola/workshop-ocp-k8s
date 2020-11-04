@@ -5,10 +5,10 @@
 
 1. Sumario del curso
 2. Arquitectura de OCP
-..* Diferencias con Kubernetes
+..2.1 Diferencias con Kubernetes
 3. Valor de Openshift
 4. Explorando Openshift
-..* La consola Web
+..2.2 La consola Web
 ..* La terminal de comandos
 ...* Openshift command line
 ...* Kubernetes command line
