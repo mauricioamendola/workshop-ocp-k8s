@@ -18,7 +18,6 @@ El objetivo inicial del POD es la de almacenar el "proceso principal" y los serv
 
 
 ## Desplegando nuestra primera aplicación 
-----
 
 ### Usando la Developer Console
 
