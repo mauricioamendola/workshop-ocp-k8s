@@ -11,7 +11,7 @@
 	 * La consola Web
 	 * La terminal de comandos
 		 * Openshift command line
-		 * Kubernetes command line  
+		 * Kubernetes command line 
 4. [Proyectos / Namespaces](docs/projects.md)
 	 * Ejercicio: Creando un proyecto 
 6. PODINFO App
