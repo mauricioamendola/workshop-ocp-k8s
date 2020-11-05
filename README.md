@@ -15,11 +15,11 @@
 4. [Proyectos / Namespaces](docs/projects.md)
 	 * Ejercicio: Creando un proyecto 
 6. PODINFO App
-	* Revision POD y Containers
+	* [Revision POD y Containers](docs/application.md)
 	* Ejercicio
-		* Deployar una imagen existente
-		* Examinando el POD
-	* Exponiendo el servicio  
+		* [Deployar una imagen existente](docs/deploy-app.md)
+		* [Examinando el POD](docs/exploring-pod.md)
+	* [Exponiendo el servicio](docs/public-app.md)  
 7. Usando YAMLs
     * Estructura de los Objetos
         * POD

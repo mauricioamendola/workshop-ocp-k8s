@@ -3,7 +3,7 @@
 
 ### Arquitectura basica
 
-![Diagrama Simple](../images/common-ocp-architecture.png)
+![Diagrama Simple](../images/ocp4-architecture.png)
 
 Explicación de los componentes.
 
