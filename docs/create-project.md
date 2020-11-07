@@ -1,9 +1,9 @@
-## Proyectos / Namespaces
+# Proyectos / Namespaces
 
 Los proyectos brinda un mecanismo de agrupar objetos y de organizar Deployments. Un proyecto de Openshift proveé al usuario o grupo de usuarios aislamiento de objetos de otros proyectos. 
 Cada proyecto tiene sus propios recursos, politicas de seguridad y networking, restricciones en cuanto al uso de recursos, etc. Actuan como un wrapper para agrupar servicios.
 
-### Crear un proyecto
+## Crear un proyecto
 
 Vamos a crear un proyecto de nombre **taller-ocp-teamX** donde teamX es el numero de equipo.  
 
@@ -28,12 +28,4 @@ to build a new example application in Python. Or use kubectl to deploy a simple 
 
 ````
 
-### Explorando el proyecto
 
-**Consola de Administrador**  
-
-![Consola Admin](../images/project-admin-console.png)  
-
-**Consola de Developer**  
-
-![Consola Developer](../images/project-developer-console.png)

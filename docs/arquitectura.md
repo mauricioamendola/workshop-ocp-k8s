@@ -1,7 +1,7 @@
-## Arquitectura de Openshift
+# Arquitectura de Openshift
 ----
 
-### Arquitectura basica
+## Arquitectura basica
 
 ![Diagrama Simple](../images/ocp4-architecture.png)
 
