@@ -9,7 +9,7 @@
      * Valor de Openshift  [TODO]
 3. Explorando Openshift
 	 * [La consola Web](docs/web-ui.md)
-	 * [La terminal de comandos](cli-client.md)
+	 * [La terminal de comandos](docs/cli-client.md)
 4. Proyectos / Namespaces
 	 * [Ejercicio: Creando un proyecto](docs/create-project.md)
 	 * [Explorar el proyecto creado](docs/explore-project.md)
