@@ -5,8 +5,7 @@
 
 1. Sumario del curso [TODO]
 2. [Arquitectura de OCP](docs/arquitectura.md)
-     * Diferencias con Kubernetes [TODO]
-     * Valor de Openshift  [TODO]
+     * [Diferencias con Kubernetes](docs/openshift-vs-k8s.md)
 3. Explorando Openshift
 	 * [La consola Web](docs/web-ui.md)
 	 * [La terminal de comandos](docs/cli-client.md)
@@ -20,7 +19,8 @@
 		* [Examinando el POD](docs/exploring-pod.md)
 	* [Exponiendo el servicio](docs/public-app.md)  
 	* [Publicando una Ruta](docs/public-route.md)
-7. Usando YAMLs [TODO]
+7. Construyendo desde código [TODO]
+8. Usando YAMLs [TODO]
     * Estructura de los Objetos
         * POD
         * Deployment
