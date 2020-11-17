@@ -20,6 +20,8 @@
 	* [Exponiendo el servicio](docs/public-app.md)  
 	* [Publicando una Ruta](docs/public-route.md)
 7. Construyendo desde código [TODO]
+	* [Intro a Source-to-Image](docs/build.md)
+	* [Ejercicio: Deployar desde el Código](docs/run-build-app.md)
 8. Usando YAMLs [TODO]
     * Estructura de los Objetos
         * POD
