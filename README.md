@@ -22,7 +22,11 @@
 7. Construyendo desde código [TODO]
 	* [Intro a Source-to-Image](docs/build.md)
 	* [Ejercicio: Deployar desde el Código](docs/run-build-app.md)
-8. Usando YAMLs [TODO]
+8. Troubleshooting Openshift
+	* [Eventos](docs/ts-events.md)
+	* [Logs](docs/ts-logs.md)
+9. Herramientas [TODO]
+10. Usando YAMLs [TODO]
     * Estructura de los Objetos
         * POD
         * Deployment
