@@ -33,4 +33,8 @@ Consideraciones:
 
 ![Build Logs](../images/build-process-logs.png)
 
-![Build Succes](../images/build-process-succes.png)
+![Build Succes](../images/build-process-succes.png)  
+
+5. Acceder a la aplicación. Como podemos ver, nos crea un atajo en la vista de Topology.  
+
+![App Image](../images/app-image.png)
