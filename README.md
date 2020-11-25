@@ -19,7 +19,7 @@
 		* [Examinando el POD](docs/exploring-pod.md)
 	* [Exponiendo el servicio](docs/public-app.md)  
 	* [Publicando una Ruta](docs/public-route.md)
-7. Construyendo desde código [TODO]
+7. Construyendo desde código
 	* [Intro a Source-to-Image](docs/build.md)
 	* [Ejercicio: Deployar desde el Código](docs/run-build-app.md)
 	* [Ejercicio: Realizar un cambio en la aplicación](docs/change-build-app.md)
